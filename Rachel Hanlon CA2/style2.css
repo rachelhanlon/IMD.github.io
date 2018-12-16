@@ -1,0 +1,124 @@
+#aboutMe, #education, #Grades, #workExp,#hobbies, #contact, header{
+		background-color: lightblue; 
+		text-align: left;
+		margin: 1em;
+		border-style: solid;
+		border-width: 2px;
+		padding-top: 20px;
+		padding-right: 30px;
+		padding-bottom: 50px;
+		padding-left: 80px;
+		font-size: 15px;
+		}
+	#hobbies {
+		font-size: 16px;
+		 text-align: center;
+	}
+	
+	#education {
+		text-align: center;
+	}
+		
+	#workExp {
+	font-size: 20px;
+	text-align: justify;
+	color: black;
+	}
+	
+	.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("tech.jpg");
+	background-position: center;
+	position: relative;
+    height: 100%;
+	}
+	
+	.hero-text {
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  color: white;
+}
+
+		
+	
+ .navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+	background-color: navy;
+	color: white;
+	padding: 1% 0;
+	font-size: 1.2em;
+	border: 0;
+	}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.navbar-brand {
+	float: left;
+	min-height: 55px;
+	padding: 0 15px 5px;
+	}
+			
+	footer {
+  background-color: navy;
+  padding: 8px;
+  text-align: center;
+  color: white;
+  width: 100%;
+	}
+
+	
+}
+	.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+}
+
+	
+	h1 {
+		padding-top: ;
+		padding-left: 0.5em;
+		text-align: center;
+	}
+	
+	.p { 
+	text-align: left;
+	}
+
+	#aboutMe {
+		background-color: lightblue;
+		text-align: center;
+		font-size: 18px
+	}
+	
+	button {
+		background: navy;
+		float: middle;
+		color: white;
+		font-style: bold;
+		border: none;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+		text-align: center;
+		
+	}
+	
+	#home {
+		color: Black;
+	}
+
+
+	
+	
+	
